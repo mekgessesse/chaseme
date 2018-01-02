@@ -1,1 +1,1 @@
-Select * From table;
+Select top (10) From table;
