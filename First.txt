@@ -1,1 +1,3 @@
-Select top(10) From table;
+
+Select top(10) From table WHERE id IN ('12', '23', '34');
+
